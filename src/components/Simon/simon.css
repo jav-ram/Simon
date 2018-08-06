@@ -1,0 +1,7 @@
+.Simon {
+    background: black;
+    width: 20rem;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}

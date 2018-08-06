@@ -1,0 +1,12 @@
+.light {
+    width: 10rem;
+    height: 10rem;
+}
+
+.on {
+    opacity: 1;
+}
+
+.off {
+    opacity: 0.3;
+}
